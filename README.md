@@ -1,2 +1,2 @@
 # Guess-My-Number
-Guess the correct number and you win! 
+Created my first, very simple, game using JavaScript, CSS, and HTML. It has a retro feel to it.
